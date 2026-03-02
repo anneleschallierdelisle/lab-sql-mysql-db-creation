@@ -79,7 +79,10 @@ When designing a database, it's important to consider several aspects to ensure 
 
 Your end product of this challenge should look something like the E-R diagram shown below, although it doesn't have to be that complicated:
 
-![ERD](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/data-static/images/erd.png)
+
+![erm](https://github.com/user-attachments/assets/c338b328-6309-41f7-9a39-09f1d1d3bb07)
+
+
 
 Using pen and paper (or computer software if you are skilled at creating digital diagrams), design a database to meet the minimum requirements of the task.
 
