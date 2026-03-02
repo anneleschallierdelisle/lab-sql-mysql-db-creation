@@ -79,8 +79,8 @@ When designing a database, it's important to consider several aspects to ensure 
 
 Your end product of this challenge should look something like the E-R diagram shown below, although it doesn't have to be that complicated:
 
+![erm](https://github.com/user-attachments/assets/d0746a54-89d3-4a96-9a02-1112b136a12c)
 
-![erm](https://github.com/user-attachments/assets/c338b328-6309-41f7-9a39-09f1d1d3bb07)
 
 
 
